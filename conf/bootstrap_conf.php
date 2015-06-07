@@ -1,0 +1,1 @@
+/etc/pydio/bootstrap_conf.php
